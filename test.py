@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
-import datetime
-from operators import *
+from py_mysql.operators import *
 
 # print AND({'id': GT(1)}, {'id': LTE(10)}, {'firstname': 'Hau', 'lastname': 'Van'})
 # print AND({'id': BETWEEN('1', 10)}, {'firstname': 'Hau', 'lastname': 'Van'})

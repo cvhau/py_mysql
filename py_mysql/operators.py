@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# MySQL Where Operators
 import datetime
 
 
